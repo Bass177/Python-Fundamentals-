@@ -1,0 +1,53 @@
+1.)
+    q. What is the function of the secondary memory in a computer?
+    a. C) To store information for the long term, even beyond a power cycle 
+
+2.)
+    q. What is a program?
+    a. A program is a set of related instructions (code) that tell a computer what to do
+
+3.)
+    q.What is the difference between a compiler and an interpreter>
+    a. An interpreter reads the source code of a program, parses the source code, and
+    interprets the instructions 
+    A compiler is a program that converts high level instructions into machine code
+    to be read and executed by a computer.
+
+4.)
+    q. Which of the following contain machine code?
+    a. C.) python source file
+        D.) A word processing document 
+
+5.)
+    q.WHat si wrong with the following code?
+    > primt 'Hello world!'
+File "<stdin>", line 1
+  primt 'Hello world!'
+                     ^
+SyntaxError: invalid syntax
+>>>
+    a.) print function is spelled wrong( primt() should be print())
+
+6.)
+    q. Where in the computer is a variable (like x= 78) stored after the following python 
+    line (x = 123) finishes? ,
+    a. B.) Main memory
+
+7.) 
+    q. WHat will the following program output?
+    x = 43
+    x = x + 1
+    print(x)
+    a. 43
+
+8.) Exercise 8: Explain each of the following using an example of a human capability: 
+(1) Central processing unit, (2) Main Memory, (3) Secondary Memory, 
+(4) Input Device, and (5) Output Device. For example, 
+“What is the human equivalent to a Central Processing Unit”?
+    1. The human brain 
+    2. Short term memory
+    3. Long term memory
+    4/5. Hands, eyes, ears, mouth, feet
+9.
+    q. How do you fix a syntax error?
+    a. Use the errors to track down the syntax error and fix the syntax.
